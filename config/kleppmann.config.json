@@ -1,0 +1,30 @@
+{
+  "schema_version": "0.1",
+  "description": "kleppmann runtime config — chapter TOC, session defaults, hint policy.",
+  "book": {
+    "title": "Designing Data-Intensive Applications",
+    "author": "Martin Kleppmann",
+    "edition": "1st",
+    "note": "No book text stored in this repo. Persona emulates teaching style only."
+  },
+  "session_defaults": {
+    "quiz_length_default": 10,
+    "quiz_length_max": 25,
+    "hint_max_per_question": 2,
+    "reveal_requires_explicit_command": true
+  },
+  "chapters": {
+    "1": "Reliable, Scalable, and Maintainable Applications",
+    "2": "Data Models and Query Languages",
+    "3": "Storage and Retrieval",
+    "4": "Encoding and Evolution",
+    "5": "Replication",
+    "6": "Partitioning",
+    "7": "Transactions",
+    "8": "The Trouble with Distributed Systems",
+    "9": "Consistency and Consensus",
+    "10": "Batch Processing",
+    "11": "Stream Processing",
+    "12": "The Future of Data Systems"
+  }
+}

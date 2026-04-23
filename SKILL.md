@@ -30,8 +30,8 @@ unix_contract:
   stdin_support: false
   stdout_format: "markdown"
   composable_with:
-    - "courserafied (future — feed quiz questions into course KB)"
-    - "pattern-observer (track which concepts Danny gets wrong repeatedly)"
+    - "courserafied"
+    - "pattern-observer"
 ---
 
 # 🎓 .kleppmann — Systems Architecture Tutor

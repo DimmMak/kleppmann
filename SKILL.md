@@ -13,7 +13,7 @@ description: >
   .kleppmann reveal | .kleppmann score | .kleppmann toc
   NOT for: reproducing book text (copyright — emulates teaching style only).
   NOT for: generic CS tutoring (use other mentors for algorithms/languages).
-  NOT for: skill creation (use skill-builder).
+  NOT for: skill creation (use snes-builder).
 capabilities:
   reads:
     - "data/quiz-sessions/*.jsonl (progress across sessions)"
